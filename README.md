@@ -1,7 +1,7 @@
 # Base de Compras e Licitacoes da Cidade de Sao Paulo
 Extração de dados com Requests para listar Compras e Licitações da Cidade de São Paulo
 
-Executado com python v3.7
+**Executado com python v3.7**
 
 ## Modo de usar
 
