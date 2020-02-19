@@ -124,6 +124,14 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+data/*.json
+*.csv
 
 # Pyre type checker
 .pyre/
+
+
+# IntelliJ IDe
+.idea/*
+.idea/
+.idea
