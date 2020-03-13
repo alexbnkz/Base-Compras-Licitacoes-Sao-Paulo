@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/Base-Compras-Licitacoes-Sao-Paulo.svg)](http://hits.dwyl.com/learning-crawlers/Base-Compras-Licitacoes-Sao-Paulo)
+
 # Base de Compras e Licitacoes da Cidade de Sao Paulo
 Extração de dados com Requests para listar Compras e Licitações da Cidade de São Paulo
 
